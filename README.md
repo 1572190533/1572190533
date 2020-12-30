@@ -1,8 +1,7 @@
 ### Welcome！👋 
-+ **My Github Blog.[https://mysticalguest.github.io](https://mysticalguest.github.io/)**
-+ **My Gitee Blog.[https://mysteryguest.gitee.io](https://mysteryguest.gitee.io/)**
-+ **My CSDN Blog.[https://blog.csdn.net/etherealsymbol](https://blog.csdn.net/etherealsymbol/)**
-+ **My CNBlogs Blog.[https://www.cnblogs.com/mysteryguest](https://www.cnblogs.com/mysteryguest/)**
++ **My Github Blog.[https://github.com/1572190533](https://github.com/1572190533)**
++ **My Gitee Blog.[https://zsqaizjl.top](https://zsqaizjl.top)**
+
 
 - 🔭 I’m currently working on java source code...
 - 🌱 I’m currently learning Java, MySQL, Spring, Redis, Elasticsearch...
